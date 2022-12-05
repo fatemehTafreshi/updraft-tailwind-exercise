@@ -1,0 +1,1 @@
+export * from './heading-section/heading-section.component';
